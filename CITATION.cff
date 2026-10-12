@@ -2,7 +2,8 @@ cff-version: 1.2.0
 message: "Please cite the archived release and the source GEO datasets. Corresponding author: Karrar Mahmood Shaker Al-Khfaji."
 title: "ICI-induced liver injury and miRNA-associated feature analysis"
 type: software
-version: 1.0.0
+version: 1.0.1
+doi: "10.5281/zenodo.23328071"
 repository-code: "https://github.com/karrarm-bit/ICI_ChILI_miRNA_Project"
 authors:
   - family-names: "Al-Khfaji"

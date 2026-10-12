@@ -2,6 +2,8 @@
 
 **Graduation research project | College of Pharmacy, University of Karbala, Iraq**
 
+**Archived release:** v1.0.1 · **DOI:** [10.5281/zenodo.23328071](https://doi.org/10.5281/zenodo.23328071)
+
 This repository contains analysis code, public source data, and research outputs for an exploratory bioinformatics study of immune checkpoint inhibitor-related liver injury and treatment response. It provides a documented workflow for academic evaluation, reproducibility, and student training.
 
 ## Authors
@@ -97,6 +99,8 @@ The study is exploratory. The paired mRNA analysis provides internal support, an
 
 ## Citation and source attribution
 
-Please cite the archived repository release using the author information in [CITATION.cff](CITATION.cff), and acknowledge the original GEO datasets and their associated publications. Once available, the Zenodo DOI should be included in citations to the archived version.
+Al-Khfaji, K. M. S., Dakhil, S., Adnan, T., & Mohsin, F. (2026). *ICI-induced liver injury and miRNA-associated feature analysis* (Version 1.0.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23328071
+
+Citation metadata are also available in [CITATION.cff](CITATION.cff). Please acknowledge the original GEO datasets and their associated publications.
 
 Public source data retain their original attribution and applicable terms. No software license has been specified for this release; contact the corresponding author regarding code reuse.
