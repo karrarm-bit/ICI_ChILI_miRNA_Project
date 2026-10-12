@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "Please cite the archived release and the source GEO datasets. Corresponding author: Karrar Mahmood Shaker Al-Khfaji."
+title: "ICI-induced liver injury and miRNA-associated feature analysis"
+type: software
+version: 1.0.0
+repository-code: "https://github.com/karrarm-bit/ICI_ChILI_miRNA_Project"
+authors:
+  - family-names: "Al-Khfaji"
+    given-names: "Karrar Mahmood Shaker"
+    affiliation: "College of Pharmacy, University of Karbala, Iraq"
+  - family-names: "Dakhil"
+    given-names: "Shahad"
+  - family-names: "Adnan"
+    given-names: "Tuktam"
+  - family-names: "Mohsin"
+    given-names: "Fatima"
+contact:
+  - family-names: "Al-Khfaji"
+    given-names: "Karrar Mahmood Shaker"
+    affiliation: "College of Pharmacy, University of Karbala, Iraq"
+abstract: "Analysis code, public source data, and deposited results for a graduation project reanalysing GSE287540 and GSE274664. The project examines transcriptomic associations with checkpoint inhibitor-induced liver injury and miRNA-associated features in treatment-response groups from separate cohorts."
+keywords:
+  - immune checkpoint inhibitors
+  - liver injury
+  - miRNA-associated features
+  - bioinformatics
+  - graduation project
