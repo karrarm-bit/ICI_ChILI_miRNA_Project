@@ -99,7 +99,7 @@ The study is exploratory. The paired mRNA analysis provides internal support, an
 
 ## Citation and source attribution
 
-Al-Khfaji, K. M. S., Dakhil, S., Adnan, T., & Mohsin, F. (2026). *ICI-induced liver injury and miRNA-associated feature analysis* (Version 1.0.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23328071
+Al-Khfaji, K. M. S., Khalaf, S. D., Maatouk, T. A., & Awash, F. I. (2026). *ICI-induced liver injury and miRNA-associated feature analysis* (Version 1.0.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.23328071
 
 Citation metadata are also available in [CITATION.cff](CITATION.cff). Please acknowledge the original GEO datasets and their associated publications.
 
