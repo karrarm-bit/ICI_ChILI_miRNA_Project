@@ -9,9 +9,9 @@ This repository contains analysis code, public source data, and research outputs
 ## Authors
 
 - Karrar Mahmood Shaker Al-Khfaji — corresponding author
-- Shahad Dakhil
-- Tuktam Adnan
-- Fatima Mohsin
+- Shahad Dakhil Khalaf
+- Tuktam Adnan Maatouk
+- Fatima Ibrahim Awash
 
 ## Study overview
 
